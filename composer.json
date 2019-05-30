@@ -9,7 +9,7 @@
     ],
     "license": "Apache-2.0",
     "require": {
-        "php": ">=7.0"
+        "php": ">=5.3"
     },
     "minimum-stability": "stable",
     "autoload": {
